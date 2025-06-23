@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### Hi there 👋
-
 I'm a dedicated **PHP/Python Developer** with a strong track record in optimizing and scaling high-load web applications. My passion lies in crafting efficient and stable systems, from backend logic to seamless integrations.
 
 ---
@@ -22,7 +20,3 @@ I'm a dedicated **PHP/Python Developer** with a strong track record in optimizin
 * **Frameworks & CMS**: Laravel, OpenCart
 * **Databases & Caching**: PostgreSQL, MySQL, Redis, Meilisearch
 * **Tools & Platforms**: Docker, Filament (Laravel Admin Panel), Git, GitHub, Coolify
-
----
-
-Feel free to explore my repositories and connect!
