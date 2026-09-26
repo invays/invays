@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-I'm a dedicated **PHP/Python Developer** with a strong track record in optimizing and scaling high-load web applications. My passion lies in crafting efficient and stable systems, from backend logic to seamless integrations.
-
----
-
 ### 🚀 What I Do:
 
 * **Performance Optimization**: I analyze and enhance high-traffic projects, identifying and resolving database bottlenecks to boost overall system performance.
